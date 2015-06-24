@@ -1,0 +1,27 @@
+<html>
+  <head>
+    <title>Ski Game</title>
+  </head>
+
+  <body>
+    <canvas></canvas>
+
+    <script type="application/javascript" src="vendor/keymaster.js"></script>
+
+    <script type="application/javascript" src="lib/util.js"></script>
+    <script type="application/javascript" src="lib/game.js"></script>
+    <script type="application/javascript" src="lib/gameView.js"></script>
+
+    <script type="application/javascript">
+      (function () {
+        var canvasEl = document.getElementsByTagName("canvas")[0];
+        canvasEl.width = Ski.Game.DIM_X;
+        canvasEl.height = Ski.Game.DIM_Y;
+
+        var ctx = canvasEl.getContext("2d");
+        var game = new Ski.Game();
+        new Ski.GameView(game, ctx).start();
+      })();
+    </script>
+  </body>
+</html>
