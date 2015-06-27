@@ -22,3 +22,5 @@ The game scales the jump time based on the speed the skiier is travelling.
 I also added some physics with different friction values that reduce the speed of the skiier with each step (low friction downhill)
 
 Every time a rock or tree reaches the edge of the screen a new one is placed on the bottom at a random position.
+
+You get points for making progress, jumping (100pts), and jumping over rocks (1000 pts)
