@@ -8,6 +8,7 @@ Welcome to Ski Game!
 
 Use the arrow keys to move and the spacebar to jump.
 Tap down repeatedly to go faster or up to slow down.
+You start off with three lives.
 
 This game was inspired by the old Microsoft Ski Free Game.
 
@@ -23,4 +24,7 @@ I also added some physics with different friction values that reduce the speed o
 
 Every time a rock or tree reaches the edge of the screen a new one is placed on the bottom at a random position.
 
-You get points for making progress, jumping (100pts), and jumping over rocks (1000 pts)
+You get points for going faster, jumping, and jumping over rocks
+
+Secret: press 'F' to go faster!
+This works on the original game too - https://xkcd.com/667/
