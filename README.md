@@ -7,7 +7,7 @@
 Welcome to Ski Game!
 
 Use the arrow keys to move and the spacebar to jump.
-Press down repeatedly to go factor
+Tap down repeatedly to go faster or up to slow down.
 
 This game was inspired by the old Microsoft Ski Free Game.
 
