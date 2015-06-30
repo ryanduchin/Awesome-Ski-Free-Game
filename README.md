@@ -1,8 +1,8 @@
 # Awesome Ski-Free Game!
 
-**[Live Demo][live-demo]**
+**[Live Demo][live-demo]**(http://ryanduchin.github.io/Awesome-Ski-Free-Game/)
 
-[live-demo](http://ryanduchin.github.io/Awesome-Ski-Free-Game/):
+[live-demo]:
 [description]:
 Welcome to my ski game!
 
