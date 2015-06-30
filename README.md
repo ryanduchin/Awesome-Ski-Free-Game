@@ -1,10 +1,10 @@
-# Awesome Ski Free Game Clone!
+# Awesome Ski-Free Game!
 
 **[Live Demo][live-demo]**
 
-[live-demo]:
+[live-demo](http://ryanduchin.github.io/Awesome-Ski-Free-Game/):
 [description]:
-Welcome to Ski Game!
+Welcome to my ski game!
 
 Use the arrow keys to move and the spacebar to jump.  
 Tap down repeatedly to go faster or up to slow down.  
