@@ -1,6 +1,6 @@
 # Awesome Ski-Free Game!
 
-**[Live Demo](http://ryanduchin.github.io/Awesome-Ski-Free-Game/)**
+**[Play the Game Here](http://ryanduchin.github.io/Awesome-Ski-Free-Game/)**
 
 [live-demo]:
 [description]:
