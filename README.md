@@ -1,4 +1,4 @@
-# Ski Game![description]
+# Awesome Ski Free Game Clone!
 
 **[Live Demo][live-demo]**
 
@@ -7,6 +7,7 @@
 Welcome to Ski Game!
 
 Use the arrow keys to move and the spacebar to jump.
+
 Tap down repeatedly to go faster or up to slow down.
 You start off with three lives.
 
@@ -21,7 +22,8 @@ Make enough progress and you will get attacked by a snowman!
 Survive long enough you'll get extra lives.
 
 Secret: press 'F' to go faster!
-[This works on the original game too](https://xkcd.com/667/)
+
+This works on the original game too - [xkcd](https://xkcd.com/667/)
 
 The game scales the jump time based on the speed the skiier is travelling.
 I also added some physics with different friction values that reduce the speed of the skiier with each step (low friction downhill)
