@@ -20,7 +20,7 @@ Make enough progress and you will get attacked by a snowman!
 Survive long enough you'll get extra lives.
 
 Secret: press 'F' to go faster!  
-This works on the original game too - [xkcd](https://xkcd.com/667/)
+This works on the original game too
 ![Image](http://imgs.xkcd.com/comics/skifree.png)
 
 Every time a rock or tree reaches the edge of the screen a new one is placed on the bottom at a random position.
